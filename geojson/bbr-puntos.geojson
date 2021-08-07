@@ -1,0 +1,1709 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Barrios_Bodegas_etrs89",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2436858191, 42.2996182741, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ocón",
+				"Núcleo" : "Villa de Ocón",
+				"Ficha" : "<a href=\"/pdf/1081.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2451644879, 42.2995119992, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ocón",
+				"Núcleo" : "Villa de Ocón",
+				"Ficha" : "<a href=\"/pdf/1082.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2191259036, 42.2923260219, 37.1739130435 ]
+			},
+			"properties" : {
+				"Nombre" : "Barranco de Las Ruedas",
+				"Municipio" : "Ocón",
+				"Núcleo" : "Las Ruedas de Ócón",
+				"Ficha" : "<a href=\"/pdf/1083.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2044905616, 42.3140485527, 93.9436619718 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ocón",
+				"Núcleo" : "Molinos de Ocón",
+				"Ficha" : "<a href=\"/pdf/1085.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.22395739, 42.3133173408, 127.7272727273 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ocón",
+				"Núcleo" : "Pipaona",
+				"Ficha" : "<a href=\"/pdf/1084.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4166155919, 42.4262182047, 35.5303030303 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Bodegas en Cerro San Cristóbal",
+				"Municipio" : "Villamediana de Iregua",
+				"Núcleo" : "Villamediana de Iregua",
+				"Ficha" : "<a href=\"/pdf/1681.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8887738525, 42.6072120577, 139.1025641026 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de la Ermita",
+				"Municipio" : "Villalba de Rioja",
+				"Núcleo" : "Villalba de Rioja",
+				"Ficha" : "<a href=\"/pdf/1661.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6228057243, 42.4038671858, 163.4796645576 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Bodegas de Santa Eulalia",
+				"Municipio" : "Ventosa",
+				"Núcleo" : "Ventosa",
+				"Ficha" : "<a href=\"/pdf/1631.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.546869249, 42.3726643124, 246.0032438256 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Bodegas",
+				"Municipio" : "Sojuela",
+				"Núcleo" : "Sojuela",
+				"Ficha" : "<a href=\"/pdf/1431.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2973596678, 42.4410499183, 9.3902439024 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de la Atalayuela",
+				"Municipio" : "Agoncillo",
+				"Núcleo" : "Agoncillo",
+				"Ficha" : "<a href=\"/pdf/0021.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2490279013, 42.4355460523, 25.1949802829 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Arrubal",
+				"Núcleo" : "Arrubal",
+				"Ficha" : "<a href=\"/pdf/0191.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -3.0044466039, 42.5262682836, 227.3636363636 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ochánduri",
+				"Núcleo" : "Ochánduri",
+				"Ficha" : "<a href=\"/pdf/1091.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -3.0073237137, 42.5252712892, 313.6111111111 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ochánduri",
+				"Núcleo" : "Ochánduri",
+				"Ficha" : "<a href=\"/pdf/1092.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -3.001964069, 42.5241556632, 74.3181818182 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ochánduri",
+				"Núcleo" : "Ochánduri",
+				"Ficha" : "<a href=\"/pdf/1093.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4857046777, 42.3329618131, 269.8585530052 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Nalda",
+				"Núcleo" : "Nalda",
+				"Ficha" : "<a href=\"/pdf/1031.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4884203609, 42.335284646, 20.3278688525 ]
+			},
+			"properties" : {
+				"Nombre" : "Cerro del Castillo",
+				"Municipio" : "Nalda",
+				"Núcleo" : "Nalda",
+				"Ficha" : "<a href=\"/pdf/1032.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4041593732, 42.329101495, 106.4911089607 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Leza de Río Leza",
+				"Núcleo" : "Leza de Río Leza",
+				"Ficha" : "<a href=\"/pdf/0881.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4626153613, 42.4195736665, 3.7398373984 ]
+			},
+			"properties" : {
+				"Nombre" : "Monte de las Bodegas",
+				"Municipio" : "Lardero",
+				"Núcleo" : "Lardero",
+				"Ficha" : "<a href=\"/pdf/0841.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5201884567, 42.4924590699, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio del Cortijo",
+				"Municipio" : "Logroño",
+				"Núcleo" : "Cortijo, El",
+				"Ficha" : "<a href=\"/pdf/0892.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.3050664245, 42.3132497801, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Santa Engracia del Jubera",
+				"Núcleo" : "San Bartolomé",
+				"Ficha" : "<a href=\"/pdf/1353.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5698896054, 42.4868535488, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de la Estación",
+				"Municipio" : "Fuenmayor",
+				"Núcleo" : "La Estación",
+				"Ficha" : "<a href=\"/pdf/0643.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.0637705781, 42.3371630112, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Pradejón",
+				"Núcleo" : "Pradejón",
+				"Ficha" : "<a href=\"/pdf/1171.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.1787445165, 42.187270742, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Préjano",
+				"Núcleo" : "Préjano",
+				"Ficha" : "<a href=\"/pdf/1191.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8941710961, 42.4221646645, 713.21 ]
+			},
+			"properties" : {
+				"Nombre" : "Ciriñuela",
+				"Municipio" : "Cirueña",
+				"Núcleo" : "Ciriñuela",
+				"Ficha" : "<a href=\"/pdf/0501.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.3171474103, 42.339799238, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Bodegas",
+				"Municipio" : "Lagunilla de Jubera",
+				"Núcleo" : "Lagunilla de Jubera",
+				"Ficha" : "<a href=\"/pdf/0831.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.3032703492, 42.3481690745, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Lagunilla de Jubera",
+				"Núcleo" : "Ventas Blancas",
+				"Ficha" : "<a href=\"/pdf/0832.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.1108979448, 42.1328686273, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Muro de Aguas",
+				"Núcleo" : "Muro de Aguas",
+				"Ficha" : "<a href=\"/pdf/1001.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8576485923, 42.568885538, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Haro",
+				"Núcleo" : "Haro",
+				"Ficha" : "<a href=\"/pdf/0713.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.9072043606, 42.5494354464, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Casalarreina",
+				"Núcleo" : "Casalarreina",
+				"Ficha" : "<a href=\"/pdf/0421.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6032845827, 42.4001320601, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Sotés",
+				"Núcleo" : "Sotés",
+				"Ficha" : "<a href=\"/pdf/1451.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8046980206, 42.4280823645, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio Las Cuevas",
+				"Municipio" : "Azofra",
+				"Núcleo" : "Azofra",
+				"Ficha" : "<a href=\"/pdf/0221.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8090156516, 42.4268199326, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio Ajas",
+				"Municipio" : "Azofra",
+				"Núcleo" : "Azofra",
+				"Ficha" : "<a href=\"/pdf/0222.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.0009616792, 42.2139501691, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Autol",
+				"Núcleo" : "Autol",
+				"Ficha" : "<a href=\"/pdf/0211.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2326736066, 42.3419444721, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Palacios",
+				"Municipio" : "Galilea",
+				"Núcleo" : "Galilea",
+				"Ficha" : "<a href=\"/pdf/0662.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2385309051, 42.2139369294, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barranco",
+				"Municipio" : "Arnedillo",
+				"Núcleo" : "Arnedillo",
+				"Ficha" : "<a href=\"/pdf/0171.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5696762488, 42.4408995057, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Término Lentiscares",
+				"Municipio" : "Navarrete",
+				"Núcleo" : "Navarrete",
+				"Ficha" : "<a href=\"/pdf/1052.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.193573036, 42.3383015155, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Bodegas de Cuesta Mugía",
+				"Municipio" : "El Redal",
+				"Núcleo" : "El Redal",
+				"Ficha" : "<a href=\"/pdf/1232.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -3.0523855631, 42.5591275023, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio El Llano",
+				"Municipio" : "Treviana",
+				"Núcleo" : "Treviana",
+				"Ficha" : "<a href=\"/pdf/1551.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.104306925, 42.2274049348, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Santiago",
+				"Municipio" : "Arnedo",
+				"Núcleo" : "Arnedo",
+				"Ficha" : "<a href=\"/pdf/0181.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7098601484, 42.5730833279, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco Antiguo",
+				"Municipio" : "Ábalos",
+				"Núcleo" : "Ábalos",
+				"Ficha" : "<a href=\"/pdf/0011.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.713189726, 42.569631634, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ábalos",
+				"Núcleo" : "Ábalos",
+				"Ficha" : "<a href=\"/pdf/0012.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7109273906, 42.5697239694, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ábalos",
+				"Núcleo" : "Ábalos",
+				"Ficha" : "<a href=\"/pdf/0013.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.690473426, 42.4056812224, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Alesón",
+				"Núcleo" : "Alesón",
+				"Ficha" : "<a href=\"/pdf/0101.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.1674996208, 42.3446938963, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Ausejo",
+				"Núcleo" : "Ausejo",
+				"Ficha" : "<a href=\"/pdf/0201.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.642670155, 42.4807888516, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco Antiguo",
+				"Municipio" : "Cenicero",
+				"Núcleo" : "Cenicero",
+				"Ficha" : "<a href=\"/pdf/0461.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8495345988, 42.5826106642, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de La Estación",
+				"Municipio" : "Haro",
+				"Núcleo" : "Haro",
+				"Ficha" : "<a href=\"/pdf/0711.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.835183542, 42.5412939741, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco antiguo",
+				"Municipio" : "Ollauri",
+				"Núcleo" : "Ollauri",
+				"Ficha" : "<a href=\"/pdf/1111.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8370182305, 42.5412915802, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio Eras de San Juan",
+				"Municipio" : "Ollauri",
+				"Núcleo" : "Ollauri",
+				"Ficha" : "<a href=\"/pdf/1112.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6899629578, 42.4275150495, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Zona Cooperativa",
+				"Municipio" : "Huércanos",
+				"Núcleo" : "Huércanos",
+				"Ficha" : "<a href=\"/pdf/0792.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6907992398, 42.5017787868, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Monte San Quilez",
+				"Municipio" : "Torremontalbo",
+				"Núcleo" : "Torremontalbo",
+				"Ficha" : "<a href=\"/pdf/1541.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.1969888978, 42.3395467484, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de San Justo",
+				"Municipio" : "El Redal",
+				"Núcleo" : "El Redal",
+				"Ficha" : "<a href=\"/pdf/1231.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5334285281, 42.3895534353, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio Las Bodegas",
+				"Municipio" : "Entrena",
+				"Núcleo" : "Entrena",
+				"Ficha" : "<a href=\"/pdf/0591.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.9789659773, 42.5975812082, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Fonzaleche",
+				"Núcleo" : "Villaseca",
+				"Ficha" : "<a href=\"/pdf/0631.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5678996682, 42.4651742919, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de San Cristóbal",
+				"Municipio" : "Fuenmayor",
+				"Núcleo" : "Fuenmayor",
+				"Ficha" : "<a href=\"/pdf/0641.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5564141639, 42.4681712512, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio del Santo Cristo",
+				"Municipio" : "Fuenmayor",
+				"Núcleo" : "Fuenmayor",
+				"Ficha" : "<a href=\"/pdf/0642.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.236068381, 42.3494302577, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio del Cortijo",
+				"Municipio" : "Galilea",
+				"Núcleo" : "Galilea",
+				"Ficha" : "<a href=\"/pdf/0661.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8219078244, 42.5479512055, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Gimileo",
+				"Núcleo" : "Gimileo",
+				"Ficha" : "<a href=\"/pdf/0681.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8227043375, 42.5503008767, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Gimileo",
+				"Núcleo" : "Gimileo",
+				"Ficha" : "<a href=\"/pdf/0682.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.0026421025, 42.1095941185, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Bodegas en Cerro de Santa Bárbara",
+				"Municipio" : "Grávalos",
+				"Núcleo" : "Grávalos",
+				"Ficha" : "<a href=\"/pdf/0701.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -3.015000052, 42.5023368307, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Las Bodegas",
+				"Municipio" : "Herramélluri",
+				"Núcleo" : "Herramélluri",
+				"Ficha" : "<a href=\"/pdf/0731.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7766562244, 42.4384226885, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Hormilla",
+				"Núcleo" : "Hormilla",
+				"Ficha" : "<a href=\"/pdf/0751.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7303148774, 42.4560832925, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Hormilleja",
+				"Núcleo" : "Hormilleja",
+				"Ficha" : "<a href=\"/pdf/0761.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6911695712, 42.4291857428, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Huércanos",
+				"Núcleo" : "Huércanos",
+				"Ficha" : "<a href=\"/pdf/0791.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5545059232, 42.390571348, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Cerro de Las Bodegas",
+				"Municipio" : "Medrano",
+				"Núcleo" : "Medrano",
+				"Ficha" : "<a href=\"/pdf/0961.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.3323895874, 42.4018644868, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Tomares",
+				"Municipio" : "Murillo de Río Leza",
+				"Núcleo" : "Murillo de Río Leza",
+				"Ficha" : "<a href=\"/pdf/0991.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5613082993, 42.4298238612, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco Histórico",
+				"Municipio" : "Navarrete",
+				"Núcleo" : "Navarrete",
+				"Ficha" : "<a href=\"/pdf/1051.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.0551552187, 42.226061478, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de La Bodegas-Cueva",
+				"Municipio" : "Quel",
+				"Núcleo" : "Quel",
+				"Ficha" : "<a href=\"/pdf/1201.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8410383364, 42.5241308265, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Las Bodegas",
+				"Municipio" : "Rodezno",
+				"Núcleo" : "Rodezno",
+				"Ficha" : "<a href=\"/pdf/1271.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.9603628287, 42.5875917146, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de San Juan",
+				"Municipio" : "Sajazarra",
+				"Núcleo" : "Sajazarra",
+				"Ficha" : "<a href=\"/pdf/1281.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.9625377216, 42.5896200269, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Las Hontanillas",
+				"Municipio" : "Sajazarra",
+				"Núcleo" : "Sajazarra",
+				"Ficha" : "<a href=\"/pdf/1282.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7525854428, 42.5006702167, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Las Cuevas",
+				"Municipio" : "San Asensio",
+				"Núcleo" : "San Asensio",
+				"Ficha" : "<a href=\"/pdf/1291.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2930178631, 42.3000290242, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Santa Engracia del Jubera",
+				"Núcleo" : "Jubera",
+				"Ficha" : "<a href=\"/pdf/1351.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.3064463905, 42.3162685857, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Santa Engracia del Jubera",
+				"Núcleo" : "Santa Engracia del Jubera",
+				"Ficha" : "<a href=\"/pdf/1352.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.1188007723, 42.2975526556, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Bodegas",
+				"Municipio" : "Tudelilla",
+				"Núcleo" : "Tudelilla",
+				"Ficha" : "<a href=\"/pdf/1581.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.120418402, 42.2985288264, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Santa Bárbara",
+				"Municipio" : "Tudelilla",
+				"Núcleo" : "Tudelilla",
+				"Ficha" : "<a href=\"/pdf/1582.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.0959152109, 42.3231472074, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de las Costeras",
+				"Municipio" : "Villar de Arnedo El",
+				"Núcleo" : "Villar de Arnedo El",
+				"Ficha" : "<a href=\"/pdf/1701.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.0991724776, 42.3236153551, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Villar de Arnedo El",
+				"Núcleo" : "Villar de Arnedo El",
+				"Ficha" : "<a href=\"/pdf/1702.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -1.9909838311, 41.9605631071, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Aguilar del Río Alhama",
+				"Núcleo" : "Aguilar del Río Alhama",
+				"Ficha" : "<a href=\"/pdf/0031.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4711686494, 42.3597810893, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Albelda de Iregua",
+				"Núcleo" : "Albelda de Iregua",
+				"Ficha" : "<a href=\"/pdf/0051.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4304795772, 42.4036409317, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio del Portillo",
+				"Municipio" : "Alberite",
+				"Núcleo" : "Alberite",
+				"Ficha" : "<a href=\"/pdf/0061.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.1153625814, 42.4046431682, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Alcanadre",
+				"Núcleo" : "Alcanadre",
+				"Ficha" : "<a href=\"/pdf/0071.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8217190096, 42.4166384225, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Bodegas",
+				"Municipio" : "Alesanco",
+				"Núcleo" : "Alesanco",
+				"Ficha" : "<a href=\"/pdf/0091.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8211771995, 42.4184444418, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Zona Bodega Coop Santiago Apostol",
+				"Municipio" : "Alesanco",
+				"Núcleo" : "Alesanco",
+				"Ficha" : "<a href=\"/pdf/0092.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8982300924, 42.5724745184, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Anguciana",
+				"Núcleo" : "Anguciana",
+				"Ficha" : "<a href=\"/pdf/0131.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7219341657, 42.3853438107, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Arenzana de Abajo",
+				"Núcleo" : "Arenzana de Abajo",
+				"Ficha" : "<a href=\"/pdf/0151.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6948751526, 42.3867629411, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio Santices",
+				"Municipio" : "Arenzana de Arriba",
+				"Núcleo" : "Arenzana de Arriba",
+				"Ficha" : "<a href=\"/pdf/0161.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.9507686393, 42.545793664, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Tirgo",
+				"Núcleo" : "Tirgo",
+				"Ficha" : "<a href=\"/pdf/1481.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7084857337, 42.4430858519, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Uruñuela",
+				"Núcleo" : "Uruñuela",
+				"Ficha" : "<a href=\"/pdf/1601.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8059355907, 42.3689624213, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Badarán",
+				"Núcleo" : "Badarán",
+				"Ficha" : "<a href=\"/pdf/0231.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.9468240995, 42.5124577945, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Bodegas en Cerro del Castillo",
+				"Municipio" : "Baños de Rioja",
+				"Núcleo" : "Baños de Rioja",
+				"Ficha" : "<a href=\"/pdf/0251.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.1334550483, 42.2511489733, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio Cortijo",
+				"Municipio" : "Bergasa",
+				"Núcleo" : "Bergasa",
+				"Ficha" : "<a href=\"/pdf/0281.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6713896459, 42.3707855892, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Bezares",
+				"Núcleo" : "Bezares",
+				"Ficha" : "<a href=\"/pdf/0301.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8330629458, 42.6005987793, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Mirador del Ebro",
+				"Municipio" : "Briñas",
+				"Núcleo" : "Briñas",
+				"Ficha" : "<a href=\"/pdf/0331.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7857388255, 42.545842763, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Briones",
+				"Núcleo" : "Briones",
+				"Ficha" : "<a href=\"/pdf/0341.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7226843006, 42.3545658778, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio Bodegas",
+				"Municipio" : "Camprovín",
+				"Núcleo" : "Camprovín",
+				"Ficha" : "<a href=\"/pdf/0371.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8416610506, 42.3997711849, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco antiguo",
+				"Municipio" : "Canillas de Río Tuerto",
+				"Núcleo" : "Canillas de Río Tuerto",
+				"Ficha" : "<a href=\"/pdf/0392.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8471399514, 42.3905964888, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Cañas",
+				"Núcleo" : "Cañas",
+				"Ficha" : "<a href=\"/pdf/0401.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7650588352, 42.3734201945, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Camino de Baños",
+				"Municipio" : "Cárdenas",
+				"Núcleo" : "Cárdenas",
+				"Ficha" : "<a href=\"/pdf/0411.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -1.949958347, 42.0052796174, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de San Miguel",
+				"Municipio" : "Cervera del Río Alhama",
+				"Núcleo" : "Cervera del Río Alhama",
+				"Ficha" : "<a href=\"/pdf/0471.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.9180296804, 42.5684511485, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio del Priorato",
+				"Municipio" : "Cihuri",
+				"Núcleo" : "Cihuri",
+				"Ficha" : "<a href=\"/pdf/0491.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8170686818, 42.3843408611, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Sobrevilla",
+				"Municipio" : "Cordovín",
+				"Núcleo" : "Cordovín",
+				"Ficha" : "<a href=\"/pdf/0521.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8157476907, 42.3830798166, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Camino San Martín",
+				"Municipio" : "Cordovín",
+				"Núcleo" : "Cordovín",
+				"Ficha" : "<a href=\"/pdf/0522.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2178998633, 42.3429776089, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Santa Bárbara",
+				"Municipio" : "Corera",
+				"Núcleo" : "Corera",
+				"Ficha" : "<a href=\"/pdf/0531.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.2179554676, 42.3463432449, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Torrejón",
+				"Municipio" : "Corera",
+				"Núcleo" : "Corera",
+				"Ficha" : "<a href=\"/pdf/0532.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.9630635973, 42.540354091, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio de Bodegas en Monte El Bolo",
+				"Municipio" : "Cuzcurrita de Río Tirón",
+				"Núcleo" : "Cuzcurrita de Río Tirón",
+				"Ficha" : "<a href=\"/pdf/0561.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.831834014, 42.6008050889, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Iglesia - Casco Urbano",
+				"Municipio" : "Briñas",
+				"Núcleo" : "Briñas",
+				"Ficha" : "<a href=\"/pdf/0332.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8299903028, 42.6023915065, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Briñas",
+				"Núcleo" : "Briñas",
+				"Ficha" : "<a href=\"/pdf/0333.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7851785516, 42.5440115643, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco Antiguo",
+				"Municipio" : "Briones",
+				"Núcleo" : "Briones",
+				"Ficha" : "<a href=\"/pdf/0342.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.834060864, 42.3979031732, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Diseminados",
+				"Municipio" : "Canillas de Río Tuerto",
+				"Núcleo" : "Canillas de Río Tuerto",
+				"Ficha" : "<a href=\"/pdf/0391.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7651705942, 42.3744815899, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Carretera",
+				"Municipio" : "Cárdenas",
+				"Núcleo" : "Cárdenas",
+				"Ficha" : "<a href=\"/pdf/0412.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.633799955, 42.4858760837, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Zona estación ferrocarril",
+				"Municipio" : "Cenicero",
+				"Núcleo" : "Cenicero",
+				"Ficha" : "<a href=\"/pdf/0462.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7567896149, 42.5599411691, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Cerro del Castillo",
+				"Municipio" : "San Vicente de la Sonsierra",
+				"Núcleo" : "San Vicente de la Sonsierra",
+				"Ficha" : "<a href=\"/pdf/1421.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.0960940397, 42.0651208902, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco urbano",
+				"Municipio" : "Cornago",
+				"Núcleo" : "Cornago",
+				"Ficha" : "<a href=\"/pdf/0541.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5855243861, 42.3920139417, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Hornos de Moncalvillo",
+				"Núcleo" : "Hornos de Moncalvillo",
+				"Ficha" : "<a href=\"/pdf/0781.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.3844014075, 42.3567181497, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Barrio Vallejuelo",
+				"Municipio" : "Ribafrecha",
+				"Núcleo" : "Ribafrecha",
+				"Ficha" : "<a href=\"/pdf/1241.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.0677871292, 42.1318306846, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Villarroya",
+				"Núcleo" : "Villarroya",
+				"Ficha" : "<a href=\"/pdf/1731.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5215699769, 42.501693023, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Monte el Rincón",
+				"Municipio" : "Logroño",
+				"Núcleo" : "Cortijo, El",
+				"Ficha" : "<a href=\"/pdf/0893.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -1.8931717704, 42.2289456618, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Aldeanueva de Ebro",
+				"Núcleo" : "Aldeanueva de Ebro",
+				"Ficha" : "<a href=\"/pdf/0081.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -3.0445179892, 42.5043373873, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Leiva",
+				"Núcleo" : "Leiva",
+				"Ficha" : "<a href=\"/pdf/0871.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4450100225, 42.4678843072, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco Antiguo",
+				"Municipio" : "Logroño",
+				"Núcleo" : "Logroño",
+				"Ficha" : "<a href=\"/pdf/0891.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4073528776, 42.4722156532, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Logroño",
+				"Núcleo" : "Logroño",
+				"Ficha" : "<a href=\"/pdf/0895.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8347453563, 42.409223701, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Torrecilla sobre Alesanco",
+				"Núcleo" : "Torrecilla sobre Alesanco",
+				"Ficha" : "<a href=\"/pdf/1521.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8481949256, 42.5768276024, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco Antiguo",
+				"Municipio" : "Haro",
+				"Núcleo" : "Haro",
+				"Ficha" : "<a href=\"/pdf/0712.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8660655236, 42.3692442721, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Villar de Torre",
+				"Núcleo" : "Villar de Torre",
+				"Ficha" : "<a href=\"/pdf/1711.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.9532846548, 42.5432264115, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Tirgo",
+				"Núcleo" : "Tirgo",
+				"Ficha" : "<a href=\"/pdf/1482.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4268629223, 42.3492354346, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "Casco antiguo",
+				"Municipio" : "Clavijo",
+				"Núcleo" : "Clavijo",
+				"Ficha" : "<a href=\"/pdf/0511.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.484906805, 42.4798334701, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Logroño",
+				"Núcleo" : "Logroño",
+				"Ficha" : "<a href=\"/pdf/0894.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8475681796, 42.5439439364, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Rodezno",
+				"Núcleo" : "Cuzcurritilla",
+				"Ficha" : "<a href=\"/pdf/1272.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5163850321, 42.3239373492, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Nalda",
+				"Núcleo" : "Islallana",
+				"Ficha" : "<a href=\"/pdf/1033.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.8823937969, 42.5157135631, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Zarratón",
+				"Núcleo" : "Zarratón",
+				"Ficha" : "<a href=\"/pdf/1801.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -1.7465962134, 42.1764989316, 0 ]
+			},
+			"properties" : {
+				"Nombre" : "",
+				"Municipio" : "Alfaro",
+				"Núcleo" : "Alfaro",
+				"Ficha" : "<a href=\"/pdf/0111.pdf\" target=\"_blank\">Ficha PDF</a>"
+			}
+		}
+	]
+}
