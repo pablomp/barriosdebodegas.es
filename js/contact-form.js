@@ -36,7 +36,7 @@ $(document).ready(function(){
             };
             
             //Ajax post data to server
-            $.post('contact.php', post_data, function(response){
+            $.post('https://formspree.io/f/xzbyjwgl', post_data, function(response){
             
                 //load json data from server and output message     
                 if (response.type == 'error') {
